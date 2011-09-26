@@ -1,0 +1,10 @@
+C:\Users\bcoover\Downloads\AspNetMvcThemeableViewEngines\AspNetMvcThemeableViewEngines\bin\AspNetMvcThemeableViewEngines.dll
+C:\Users\bcoover\Downloads\AspNetMvcThemeableViewEngines\AspNetMvcThemeableViewEngines\bin\AspNetMvcThemeableViewEngines.pdb
+C:\Users\bcoover\Downloads\AspNetMvcThemeableViewEngines\AspNetMvcThemeableViewEngines\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bcoover\Downloads\AspNetMvcThemeableViewEngines\AspNetMvcThemeableViewEngines\obj\Debug\AspNetMvcThemeableViewEngines.dll
+C:\Users\bcoover\Downloads\AspNetMvcThemeableViewEngines\AspNetMvcThemeableViewEngines\obj\Debug\AspNetMvcThemeableViewEngines.pdb
+C:\Users\bcoover\Documents\Visual Studio 2010\Projects\MvcRazorThemableViewEngine\MvcRazorThemeableViewEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bcoover\Documents\Visual Studio 2010\Projects\MvcRazorThemableViewEngine\MvcRazorThemeableViewEngine\bin\MvcRazorThemeableViewEngine.dll
+C:\Users\bcoover\Documents\Visual Studio 2010\Projects\MvcRazorThemableViewEngine\MvcRazorThemeableViewEngine\bin\MvcRazorThemeableViewEngine.pdb
+C:\Users\bcoover\Documents\Visual Studio 2010\Projects\MvcRazorThemableViewEngine\MvcRazorThemeableViewEngine\obj\Debug\MvcRazorThemeableViewEngine.dll
+C:\Users\bcoover\Documents\Visual Studio 2010\Projects\MvcRazorThemableViewEngine\MvcRazorThemeableViewEngine\obj\Debug\MvcRazorThemeableViewEngine.pdb

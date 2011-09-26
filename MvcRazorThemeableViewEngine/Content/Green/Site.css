@@ -1,0 +1,26 @@
+﻿body 
+{
+    margin: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 18px;
+    color: #404040;
+}
+
+.topbar-inner, .topbar .fill {
+    background-color: #267f00 !important;
+}
+
+.topbar-inner, .topbar .fill {
+background-color: #267f00;
+background-repeat: repeat-x;
+background-image: -khtml-gradient(linear, left top, left bottom, from(#267f00), to(#222222)) !important;
+background-image: -moz-linear-gradient(top, #267f00, #222222) !important;
+background-image: -ms-linear-gradient(top, #267f00, #222222) !important;
+background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #267f00), color-stop(100%, #222222)) !important;
+background-image: -webkit-linear-gradient(top, #267f00, #222222) !important;
+background-image: -o-linear-gradient(top, #267f00, #222222) !important;
+background-image: linear-gradient(top, #267f00, #222222) !important;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#267f00', endColorstr='#222222', GradientType=0);
+}

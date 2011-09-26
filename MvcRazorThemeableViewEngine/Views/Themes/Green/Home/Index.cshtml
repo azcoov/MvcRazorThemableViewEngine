@@ -1,0 +1,15 @@
+﻿
+@{
+	ViewBag.Title = "Home Page";
+	var theme = Session["theme"] as string ?? string.Empty;
+
+	Layout = string.IsNullOrEmpty(theme) ?
+			 "~/Views/Shared/_Layout.cshtml" :
+			 string.Format("~/Views/Themes/{0}/Shared/_Layout.cshtml", theme);
+}
+
+<div class="page-header">
+    <h1>Green <small>Razor Theme Example</small></h1>
+</div>
+
+<p><strong>This example has a custom master page</strong></p>

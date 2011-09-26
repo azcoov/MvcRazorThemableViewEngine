@@ -1,0 +1,5 @@
+C:\Users\bcoover\Downloads\AspNetMvcThemeableViewEngines\AspNetMvcThemeableViewEngines\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bcoover\Downloads\AspNetMvcThemeableViewEngines\AspNetMvcThemeableViewEngines\bin\AspNetMvcThemeableViewEngines.dll
+C:\Users\bcoover\Downloads\AspNetMvcThemeableViewEngines\AspNetMvcThemeableViewEngines\bin\AspNetMvcThemeableViewEngines.pdb
+C:\Users\bcoover\Downloads\AspNetMvcThemeableViewEngines\AspNetMvcThemeableViewEngines\obj\Debug\AspNetMvcThemeableViewEngines.dll
+C:\Users\bcoover\Downloads\AspNetMvcThemeableViewEngines\AspNetMvcThemeableViewEngines\obj\Debug\AspNetMvcThemeableViewEngines.pdb
